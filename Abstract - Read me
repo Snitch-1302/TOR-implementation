@@ -1,0 +1,12 @@
+Abstract:
+
+In the realm of Network Security, our project represents an extensive exploration of the renowned Tor network, which we've categorized into three distinct layers: Tor Basic, 
+Intermediate, and Advanced. This collaborative venture, undertaken by our proficient three-member team, demonstrates a comprehensive understanding of Tor's intricate infrastructure 
+and functionality. Our project aligns with the core principles of Tor while venturing into more advanced and innovative territory.In the Tor Basic phase, we delve into the foundations,
+examining how users can attain basic online anonymity through Tor. The Intermediate level builds upon this, addressing the need for enhanced privacy and security. Our Advanced segment encompasses 
+sophisticated techniques and novel features, providing an even higher level of network protection.With the combined expertise of our team, we aim to offer users an unparalleled experience 
+in terms of online privacy and network security. Our project will not only contribute to the Tor ecosystem but will also serve as a valuable resource for both users and researchers in the field. 
+This multifaceted approach elevates network security to new heights, ensuring robust protection for users and securing their digital identities in an increasingly interconnected world.
+
+Git link: https://github.com/Snitch-1302/TOR-implementation
+
